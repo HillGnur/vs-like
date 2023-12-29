@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1024,
     "windowHeight": 768,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\HillGnur\\Desktop\\vs-like\\web-ver",
     "maxFPS": 120,
     "minFPS": 20,
     "verticalSync": false,
@@ -1688,6 +1688,71 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Lasers/3070803b0aa2b9e3ccba6ef2e88aa60bd972bbee0929e1e86e4c026e07334921_Blue laser 04.png",
           "name": "Blue laser 04.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open Scroll.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Open Scroll.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Items/23e78b726afa538c898fc305bd88ace62701c75544b687a394c20183550426fc_Open Scroll.png",
+          "name": "Open Scroll.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Stone Tablet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stone Tablet.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Items/05efee96f3595acb8bd0a5d7e81b90e14ac73737761f9347942d8be84dab1334_Stone Tablet.png",
+          "name": "Stone Tablet.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Stone.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stone.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Resources/7fe811304cb672035b65bbf17b480463d99e7c1f29f7f8ea7c92301a5a44a1bf_Stone.png",
+          "name": "Stone.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Items/23a7ceba1f8f0f36044bb49de54086f869d64909743bf1d7eaf9a46ba9816292_Skull.png",
+          "name": "Skull.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bronze Shield.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bronze Shield.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Shields/9c47f6acc1e33afaae26014aaccc2acf9cbfa856c3cd5f7e748787708137974b_Bronze Shield.png",
+          "name": "Bronze Shield.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1719,7 +1784,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0536458333333336,
+        "zoomFactor": 0.8353591827059905,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14955,8 +15020,8 @@
           "name": "Ogre",
           "persistentUuid": "2c9d5b8f-15bc-41e5-b555-8294cbaeb174",
           "width": 64,
-          "x": 121,
-          "y": 349,
+          "x": 73,
+          "y": 350,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -14971,8 +15036,8 @@
           "name": "Ogre",
           "persistentUuid": "0b139f91-6b58-4c38-b690-215266ee301f",
           "width": 64,
-          "x": 705,
-          "y": 148,
+          "x": 634,
+          "y": 103,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -15003,8 +15068,8 @@
           "name": "Ogre",
           "persistentUuid": "ecf1f70f-16d5-4a5e-a28a-ef7bf089c32b",
           "width": 64,
-          "x": 834,
-          "y": 483,
+          "x": 895,
+          "y": 530,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -15019,8 +15084,8 @@
           "name": "Ogre",
           "persistentUuid": "464793a4-68cb-4e72-bcb5-c5ec6df788fe",
           "width": 64,
-          "x": 375,
-          "y": 597,
+          "x": 107,
+          "y": 538,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -15035,8 +15100,8 @@
           "name": "Ogre",
           "persistentUuid": "1b1ab8f9-380f-4632-80d0-f7003b6d917d",
           "width": 64,
-          "x": 844,
-          "y": 228,
+          "x": 861,
+          "y": 95,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -15051,8 +15116,8 @@
           "name": "Ogre",
           "persistentUuid": "5678035d-cd2b-4a38-b236-21591b209dea",
           "width": 64,
-          "x": 534,
-          "y": 141,
+          "x": 385,
+          "y": 121,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -19461,8 +19526,8 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "74663c65af05b9c537e330cf0adf0f5d90e3cd63cd28ba68d14bccbb3890a685",
-          "name": "BlueLaser04",
+          "assetStoreId": "947bf4f63c369532df965ada71dae5ee8d4a07ced7dacb1d7753d6649b5bf2d5",
+          "name": "OpenScroll",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -19479,7 +19544,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Blue laser 04.png",
+                      "image": "Open Scroll.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -19499,16 +19564,256 @@
                             "y": 0
                           },
                           {
-                            "x": 13,
+                            "x": 16,
                             "y": 0
                           },
                           {
-                            "x": 13,
-                            "y": 37
+                            "x": 16,
+                            "y": 16
                           },
                           {
                             "x": 0,
-                            "y": 37
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "7b013cc1074b80100cd20585cffde1aebc4558037ea013d4260a82c6f82338e0",
+          "name": "StoneTablet",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Stone Tablet.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f1bd213445ca88e13a5d5f461afc4e3a3df7aff460da637a02f52b836af27c7a",
+          "name": "Stone",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Stone.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "3048158d05be4020fc2b39632e4133bc815c7ca1044e584cb40ba5a2993ca74f",
+          "name": "Skull",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Skull.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "6b770be42d06c3f45f157781c057c709fb6d22b082e994cc0f183746dbabcce6",
+          "name": "BronzeBall",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Bronze Shield.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
                           }
                         ]
                       ]
@@ -19533,459 +19838,63 @@
             "objectName": "Floor2"
           },
           {
-            "objectName": "Ogre"
+            "folderName": "Bullets",
+            "children": [
+              {
+                "objectName": "OpenScroll"
+              },
+              {
+                "objectName": "Stone"
+              },
+              {
+                "objectName": "Skull"
+              },
+              {
+                "objectName": "BronzeBall"
+              },
+              {
+                "objectName": "StoneTablet"
+              }
+            ]
           },
           {
-            "objectName": "BigZombie"
-          },
-          {
-            "objectName": "OrcWarrior"
-          },
-          {
-            "objectName": "Skelet"
-          },
-          {
-            "objectName": "Swampy"
-          },
-          {
-            "objectName": "Muddy"
-          },
-          {
-            "objectName": "Goblin"
-          },
-          {
-            "objectName": "KnightMale"
-          },
-          {
-            "objectName": "KnightFemale"
-          },
-          {
-            "objectName": "Imp"
-          },
-          {
-            "objectName": "BlueLaser04"
+            "folderName": "Enemies",
+            "children": [
+              {
+                "objectName": "Imp"
+              },
+              {
+                "objectName": "KnightFemale"
+              },
+              {
+                "objectName": "KnightMale"
+              },
+              {
+                "objectName": "Goblin"
+              },
+              {
+                "objectName": "Muddy"
+              },
+              {
+                "objectName": "Swampy"
+              },
+              {
+                "objectName": "Skelet"
+              },
+              {
+                "objectName": "OrcWarrior"
+              },
+              {
+                "objectName": "BigZombie"
+              },
+              {
+                "objectName": "Ogre"
+              }
+            ]
           }
         ]
       },
       "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "Farmer",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Left\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement",
-                "\"Right\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Right\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement",
-                "\"Up\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Up\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement",
-                "\"Down\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Down\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Up\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Idle Up\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Down\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Idle Down\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Idle Left\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Farmer",
-                "TopDownMovement"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Walk Right\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Farmer",
-                "Animation",
-                "=",
-                "\"Idle Right\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "Ogre",
-                "Pathfinding",
-                "",
-                "Farmer.CenterX()-RandomInRange(0,32)",
-                "Farmer.CenterY()-RandomInRange(0,48)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "Ogre",
-                "Pathfinding",
-                "",
-                "Farmer.CenterX()-RandomInRange(0,32)",
-                "Farmer.CenterY()-RandomInRange(0,48)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Ogre",
-                ">",
-                "Ogre.Pathfinding::DestinationX()"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "Ogre",
-                "Flippable",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Ogre",
-                "<",
-                "Ogre.Pathfinding::DestinationX()"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "Ogre",
-                "Flippable",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "",
-                "\"Fire\"",
-                ">=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"Fire\""
-              ]
-            },
-            {
-              "type": {
-                "value": "FireBullet::FireBullet::FireTowardObject"
-              },
-              "parameters": [
-                "Farmer",
-                "FireBullet",
-                "Farmer.CenterX()",
-                "Farmer.BoundingBoxCenterY()",
-                "BlueLaser04",
-                "Ogre",
-                "500",
-                ""
-              ]
-            }
-          ]
-        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -20005,7 +19914,7 @@
               },
               "parameters": [
                 "",
-                "\"Fire\""
+                "\"Fire_Stone\""
               ]
             },
             {
@@ -20016,142 +19925,6 @@
                 "",
                 "\"Damage_From_Enemy\""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "BlueLaser04",
-                "Ogre",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::SetHealth"
-              },
-              "parameters": [
-                "Ogre",
-                "Health",
-                "Ogre.Health::Health()-25",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "BlueLaser04",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::Health"
-              },
-              "parameters": [
-                "Ogre",
-                "Health",
-                "<=",
-                "0",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Ogre",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::Health"
-              },
-              "parameters": [
-                "Farmer",
-                "Health",
-                "<=",
-                "0",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Farmer",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Ogre",
-                "Farmer",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "",
-                "\"Damage_From_Enemy\"",
-                ">=",
-                ".3"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::SetHealth"
-              },
-              "parameters": [
-                "Farmer",
-                "Health",
-                "Farmer.Health::Health()-25",
-                ""
-              ]
             },
             {
               "type": {
@@ -20159,10 +19932,698 @@
               },
               "parameters": [
                 "",
-                "\"Damage_From_Enemy\""
+                "\"Ogre_Spawn\""
               ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Player",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Farmer",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement",
+                    "\"Up\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Up\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement",
+                    "\"Down\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Down\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Left\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement",
+                    "\"Right\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Up\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Idle Up\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Down\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Idle Down\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Right\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Idle Right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Walk Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Animation",
+                    "=",
+                    "\"Idle Left\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Health",
+                    "<="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemies",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Ogre_Spawn\"",
+                    ">=",
+                    "5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Ogre",
+                    "Farmer.CenterX() + RandomFloatInRange(-1024,-512)",
+                    "Farmer.CenterY() + RandomFloatInRange(-768,-384)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Ogre",
+                    "Farmer.CenterX() + RandomFloatInRange(1024,512)",
+                    "Farmer.CenterY() + RandomFloatInRange(768,384)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Ogre_Spawn\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Pathfinding",
+                    "",
+                    "Farmer.CenterX()-RandomInRange(0,32)",
+                    "Farmer.CenterY()-RandomInRange(0,48)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Pathfinding",
+                    "",
+                    "Farmer.CenterX()-RandomInRange(0,32)",
+                    "Farmer.CenterY()-RandomInRange(0,48)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "<",
+                    "Ogre.Pathfinding::DestinationX()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    ">",
+                    "Ogre.Pathfinding::DestinationX()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "TopDownMovement"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Animation",
+                    "=",
+                    "\"Run\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Farmer",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Damage_From_Enemy\"",
+                    ">=",
+                    ".3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "Health",
+                    "Farmer.Health::Health()-25",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Damage_From_Enemy\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Health",
+                    "<="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Firing",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fire_Stone\"",
+                    ">=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fire_Stone\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::FireTowardObject"
+                  },
+                  "parameters": [
+                    "Farmer",
+                    "FireBullet",
+                    "Farmer.CenterX()",
+                    "Farmer.BoundingBoxCenterY()",
+                    "Stone",
+                    "Ogre",
+                    "500",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Stone",
+                    "Ogre",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Ogre",
+                    "Health",
+                    "Ogre.Health::Health()-25",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Stone",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
