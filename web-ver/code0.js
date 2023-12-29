@@ -31,6 +31,10 @@ gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects2= [];
 
 gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDBlueLaser04Objects1Objects = Hashtable.newFrom({"BlueLaser04": gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1});
 gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects = Hashtable.newFrom({"Ogre": gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1});
+gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDBlueLaser04Objects1Objects = Hashtable.newFrom({"BlueLaser04": gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1});
+gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects = Hashtable.newFrom({"Ogre": gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1});
+gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects = Hashtable.newFrom({"Ogre": gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1});
+gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDFarmerObjects1Objects = Hashtable.newFrom({"Farmer": gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1});
 gdjs.Cena_32sem_32t_237tuloCode.eventsList0 = function(runtimeScene) {
 
 {
@@ -364,7 +368,7 @@ if (isConditionTrue_0) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "Fire") <= 1;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "Fire") >= 1;
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Farmer"), gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Ogre"), gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1);
@@ -372,8 +376,115 @@ gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1.length = 0;
 
 {gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "Fire");
 }{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1.length ;i < len;++i) {
-    gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getBehavior("FireBullet").FireTowardObject((gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getCenterXInScene()), (gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getAABBCenterY()), gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDBlueLaser04Objects1Objects, gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects, 200, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
+    gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getBehavior("FireBullet").FireTowardObject((gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getCenterXInScene()), (gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getAABBCenterY()), gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDBlueLaser04Objects1Objects, gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects, 500, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
 }
+}}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "Fire");
+}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "Damage_From_Enemy");
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("BlueLaser04"), gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Ogre"), gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDBlueLaser04Objects1Objects, gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1 */
+/* Reuse gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1 */
+{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1.length ;i < len;++i) {
+    gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[i].getBehavior("Health").SetHealth((gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[i].getBehavior("Health").Health((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined))) - 25, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
+}
+}{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1.length ;i < len;++i) {
+    gdjs.Cena_32sem_32t_237tuloCode.GDBlueLaser04Objects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Ogre"), gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1.length;i<l;++i) {
+    if ( gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[i].getBehavior("Health").Health((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined)) <= 0 ) {
+        isConditionTrue_0 = true;
+        gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[k] = gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[i];
+        ++k;
+    }
+}
+gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1.length = k;
+if (isConditionTrue_0) {
+/* Reuse gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1 */
+{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1.length ;i < len;++i) {
+    gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Farmer"), gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1.length;i<l;++i) {
+    if ( gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getBehavior("Health").Health((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined)) <= 0 ) {
+        isConditionTrue_0 = true;
+        gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[k] = gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i];
+        ++k;
+    }
+}
+gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1.length = k;
+if (isConditionTrue_0) {
+/* Reuse gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1 */
+{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1.length ;i < len;++i) {
+    gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Farmer"), gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Ogre"), gdjs.Cena_32sem_32t_237tuloCode.GDOgreObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDOgreObjects1Objects, gdjs.Cena_32sem_32t_237tuloCode.mapOfGDgdjs_9546Cena_959532sem_959532t_9595237tuloCode_9546GDFarmerObjects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "Damage_From_Enemy") >= 0.3;
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1 */
+{for(var i = 0, len = gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1.length ;i < len;++i) {
+    gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getBehavior("Health").SetHealth((gdjs.Cena_32sem_32t_237tuloCode.GDFarmerObjects1[i].getBehavior("Health").Health((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined))) - 25, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
+}
+}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "Damage_From_Enemy");
 }}
 
 }
